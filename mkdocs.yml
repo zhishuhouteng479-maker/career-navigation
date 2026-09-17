@@ -1,0 +1,9 @@
+site_name: 次世代キャリア・ナビゲーション
+site_description: 退職代行から未経験エンジニア転職まで。あなたの市場価値を最大化するキャリア戦略。
+theme:
+  name: material
+  language: ja
+nav:
+  - トップページ: index.md
+  - 単独レビュー（詳細解説）:
+      - オンスク.JPレビュー: articles/onsk-review.md
