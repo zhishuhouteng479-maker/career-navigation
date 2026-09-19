@@ -1,0 +1,13 @@
+﻿:root {
+  --md-primary-fg-color: #0f172a;
+  --md-primary-fg-color--light: #334155;
+  --md-primary-fg-color--dark: #020617;
+  --md-accent-fg-color: #eab308;
+}
+.md-typeset h1 {
+  color: #1e3a8a;
+  border-bottom: 3px solid #eab308;
+}
+.md-typeset .admonition.warning {
+  border-color: #eab308;
+}
